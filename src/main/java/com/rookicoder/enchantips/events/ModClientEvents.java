@@ -125,6 +125,25 @@ public class ModClientEvents {
                             "\nIncompatible with Mending." +
                             "\nUp to level I"));
 
+        } else if (enchants.containsKey(Enchantments.KNOCKBACK) && Screen.hasShiftDown()) {
+            event.getToolTip().add(new StringTextComponent(
+                    "Increases knockback." +
+                            "\nWorks with swords." +
+                            "\nUp to level II"));
+
+        } else if (enchants.containsKey(Enchantments.LOOTING) && Screen.hasShiftDown()) {
+            event.getToolTip().add(new StringTextComponent(
+                    "Increases mob loot." +
+                            "\nWorks with swords." +
+                            "\nUp to level III"));
+
+        } else if (enchants.containsKey(Enchantments.INFINITY) && Screen.hasShiftDown()) {
+            event.getToolTip().add(new StringTextComponent(
+                    "Returns trident after thrown. Higher level decreases return time" +
+                            "\nWorks with tridents." +
+                            "\nIncompatible with Riptide." +
+                            "\nUp to level III"));
+
         }
     }
 }
