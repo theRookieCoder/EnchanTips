@@ -1,5 +1,7 @@
 # EnchanTips
 EnchanTips is mod that tells everything about an enchantment you need to know
+## Versioning
+EnchanTips is made for Forge 1.16.4 but may work in Forge 1.16.3 as well.
 ## Usage
 If you do not know what an enchantment does, hover over an item with the enchantment and press shift.  
 The extended tooltip shows you:
