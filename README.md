@@ -11,6 +11,7 @@ The extended tooltip shows you:
 - The highest tier of the enchantment
 ## TODO
 - [x] Add all the enchantments
+- [x] Make proper mods.toml file
 - [ ] Check if they are correct
 - [ ] Add support for multiple enchantments
 - [ ] Add formatting so that the tooltip looks better
