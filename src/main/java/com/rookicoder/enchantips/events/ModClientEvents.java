@@ -151,7 +151,7 @@ public class ModClientEvents {
 
         } if (enchants.containsKey(Enchantments.LUCK_OF_THE_SEA) && Screen.hasShiftDown()) {
             event.getToolTip().add(new StringTextComponent(
-                    "Luch of the Sea increases rate of good loot." +
+                    "Luck of the Sea increases rate of good loot." +
                             "\nWorks with fishing rods." +
                             "\nUp to level III"));
 
@@ -263,7 +263,7 @@ public class ModClientEvents {
             event.getToolTip().add(new StringTextComponent(
                     "Unbreaking increases an item's durability." +
                             "\nWorks with everything enchantable." +
-                            "\n§ICOMPATIBLE§I with Mending" +
+                            "\n§INCOMPATIBLE§I with Mending" +
                             "\nUp to level III"));
 
         }
