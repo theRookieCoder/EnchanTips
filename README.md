@@ -1,14 +1,7 @@
 # EnchanTips
-EnchanTips is mod that tells everything about an enchantment you need to know
+This file is for developer related matters. For information about the mod, go to [here](https://theRookieCoder.github.io/EnchanTips/)
 ## Versioning
-EnchanTips is made for Forge 1.16.4 but may work in Forge 1.16.3 as well.
-## Usage
-If you do not know what an enchantment does, hover over an item with the enchantment and press shift.  
-The extended tooltip shows you:
-- Exactly what the enchantment does
-- What items the enchantment is compatible with
-- Enchantments that it is incompatible with
-- The highest tier of the enchantment
+EnchanTips was coded for Forge 1.16.4 but may work in Forge 1.16.3 as well.
 ## TODO
 - [x] Add all the enchantments
 - [x] Make proper mods.toml file
