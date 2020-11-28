@@ -1,4 +1,3 @@
-# EnchanTips
 ## What is EnchanTips?
 EnchanTips is a mod that extends the tootip to show more information about the enchantment.  
 EnchanTips add these things to the tooltip
