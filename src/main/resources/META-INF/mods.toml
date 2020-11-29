@@ -25,17 +25,17 @@ displayName="EnchanTips" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
 updateJSONURL="http://myurl.me/" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="https://github.com/theRookieCoder/EnchanTips" #optional
+displayURL="https://therookiecoder.github.io/EnchanTips" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="examplemod.png" #optional
+logoFile="Enchanted_Book.gif" #optional
 # A text field displayed in the mod UI
-credits="Thanks for this mod goes to Forge and Mojang" #optional
+credits="Thanks for this mod goes to Forge, Mojang and TechnoVision" #optional
 # A text field displayed in the mod UI
 authors="theRookieCoder" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Adds tooltips that give info about enchantments. Press shift while hovering over an item with an enchantment to show
-the tooltip.
+Adds tooltips that give information about an enchantment.
+Press shift while hovering over an enchanted item with an enchantment to show the tooltip.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.examplemod]] #optional
