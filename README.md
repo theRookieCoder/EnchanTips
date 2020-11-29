@@ -1,10 +1,8 @@
 # EnchanTips
-This file is for developer related matters. For information about the mod, go to [here](https://theRookieCoder.github.io/EnchanTips/)
+This file is for developer related matters. For information about the mod, go to [the main project website](https://theRookieCoder.github.io/EnchanTips/)
 ## Versioning
-EnchanTips was coded for Forge 1.16.4 but may work in Forge 1.16.3 as well.
+EnchanTips was coded for `Forge 1.16.4` and will only work in `1.16.4`.
 ## TODO
-- [x] Add all the enchantments
-- [x] Make proper mods.toml file
-- [ ] Check if they are correct
-- [x] Add support for multiple enchantments
-- [ ] Add formatting so that the tooltip looks better
+- [ ] Check if the tooltips are correct are correct
+- [ ] Find a better solution to support multiple enchantments
+- [ ] Add formatting (colours and stuff) so that the tooltip looks better
